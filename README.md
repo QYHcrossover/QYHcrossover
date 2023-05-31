@@ -7,7 +7,7 @@
 ![QYHcrossover's github stats](https://github-readme-stats.vercel.app/api?username=QYHcrossover&theme=radical&show_icons=true&rank_icon=github) 
 
 ### Top languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=QYHcrossover&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=QYHcrossover&theme=radical)](https://github.com/QYHcrossover/github-readme-stats)
 
 
 
