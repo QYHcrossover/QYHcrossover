@@ -3,7 +3,7 @@
 - 🌱 I’m interested in machine learning, reinforcement learning, automatic drive...
 - 📧 How to reach me: 1064780602@qq.com
 
-![JonnyS1226's github stats](https://github-readme-stats.vercel.app/api?username=QYHcrossover&theme=radical) 
+![QYHcrossover's github stats](https://github-readme-stats.vercel.app/api?username=QYHcrossover&theme=radical&&show_icons=true&rank_icon=github) 
 
 
 
