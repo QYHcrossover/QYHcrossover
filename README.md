@@ -3,7 +3,11 @@
 - 🌱 I’m interested in machine learning, reinforcement learning, automatic drive...
 - 📧 How to reach me: 1064780602@qq.com
 
-![QYHcrossover's github stats](https://github-readme-stats.vercel.app/api?username=QYHcrossover&theme=radical&&show_icons=true&rank_icon=github) 
+### My github stats
+![QYHcrossover's github stats](https://github-readme-stats.vercel.app/api?username=QYHcrossover&theme=radical&show_icons=true&rank_icon=github) 
+
+### Top languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=QYHcrossover&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
