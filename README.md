@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+- 🌱 I’m interested in machine learning, reinforcement learning, automatic drive...
+- 📧 How to reach me: 1064780602@qq.com
+
+![JonnyS1226's github stats](https://github-readme-stats.vercel.app/api?username=QYHcrossover&theme=radical) 
+
+
+
 <!--
 **QYHcrossover/QYHcrossover** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
